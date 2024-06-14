@@ -18,14 +18,6 @@ function App() {
       foto: "https://github.com/Juan-DavidP.png",
       equipo: "Front End",
       fav: true
-    },
-    {
-      id: uuid(),
-      nombre: "Juan David",
-      puesto: "Estudiante",
-      foto: "https://github.com/Juan-DavidP.png",
-      equipo: "Móvil",
-      fav: false
     }
   ]);
 
